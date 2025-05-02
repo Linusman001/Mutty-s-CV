@@ -1,0 +1,89 @@
+body{
+    background: white smoke;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60px;
+}
+
+.name {
+    text-align: left;
+    font-family: serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.contact{
+    text-align: right;
+    font-family: sans serif;
+    font-size: 25px;
+    padding-top: none;
+}
+
+.socials {
+    text-align: left;
+    font-family: sans serif;
+    font-size: 25px;
+    text-decoration: none;
+    border: solid blue;
+    border-radius: 3px;
+    color: black;
+    background-color: DogberBlue;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+a :hover {
+  color: darkblue;
+  border: solidblack;
+}
+
+h5 { 
+    text-align: center;
+    font-size: 25px;
+    font-family: serif;
+    text-transform: uppercase;
+}
+
+hr{
+    border: solid 2px;
+} 
+
+p {
+    text-decoration: bold;
+}
+
+.experience {
+    text-align: right;
+    font-family: sans serif;
+    font-size: 25px;
+    padding-top: none;
+}
+
+. education {
+    font-size: 30px;
+    font-family: sanse serif;
+}
+
+#boxes{
+  margin-top:20px;
+}
+
+#boxes .box{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#boxes .box img{
+  width:90px;
+}
+
+. friends {
+    font-size: 5px;
+}
